@@ -11,6 +11,15 @@ include 'includes/header.php';
 </div>
     <img src="img/bomen.jpg" alt="bomen" class="bomen">
 
+<div class="diensten">
+    <img src="img/tuinaanleg.jpg" alt="tuinaanleg">
+    <img src="img/tuinonderhoud.jpg" alt="tuinonderhoud">
+    <img src="img/tuinontwerp.jpg" alt="tuinontwerp">
+    <img src="img/zwemvijvers.jpg" alt="zwemvijvers">
+</div>
+
+
+
 <?php
 include 'includes/footer.php';
 ?>
