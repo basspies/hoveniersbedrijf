@@ -1,0 +1,72 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(80,172,84);
+    padding: 10px;
+}
+.navbar button{
+    background-color: rgb(80,172,84);
+    overflow: hidden;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+}
+button{
+    background-color: rgb(3, 155, 46);
+    border-radius: 3px;
+    border: none;
+}
+button:hover {
+    background-color:  rgb(2, 160, 50);
+    cursor: pointer;
+    box-shadow: 0px 1px 2px rgba(0 , 0, 0, 0.2);
+}
+.logo{
+    width: 45px;
+    height: 45px;
+}
+.bomen{
+    width: 100%;
+    height: 25%;
+}
+.diensten{
+    width: 100%;
+    height: 75%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    border: 1px solid rgb(80,172,84);
+}
+.openingstijden{
+    background-color: rgb(183, 206, 178);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.footer{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.openingstijden-text{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    flex-direction: column;
+}
+
+.openingstijden-map{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
